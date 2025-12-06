@@ -1,6 +1,6 @@
 # CI/CD Kubernetes Pipeline
 
-This project demonstrates a robust CI/CD pipeline designed for Kubernetes-based applications. It incorporates security, code quality, runtime monitoring, infrastructure automation, and containerisation best practices using modern DevOps tools.
+This repository (Repo 2) implements the CI/CD pipeline that builds, scans, and deploys a secure containerised application onto the Kubernetes environment provisioned in Repo 1. It demonstrates a full DevSecOps workflow, integrating security scanning, code quality checks, container image validation, and runtime threat detection. The pipeline is executed using GitHub Actions and deploys workloads to an Amazon EKS cluster, showcasing a modern, automated, and security-focused software delivery process.
 
 ## Overview
 
