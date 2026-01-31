@@ -8,8 +8,7 @@
 
 ## Overview
 
-This repository implements a **security-first CI/CD pipeline** that builds, scans, and deploys a containerised application to a Kubernetes environment provisioned in  
-**[Repo 1](https://github.com/SadaC-hub/EC2-Runner_K8sProject)**.
+This repository implements a **security-first CI/CD pipeline** that builds, scans, and deploys a containerised application to a Kubernetes environment provisioned in **[Repo 1](https://github.com/SadaC-hub/EC2-Runner_K8sProject)**.
 
 The pipeline reflects the architecture and flow defined in the infrastructure repository and demonstrates a **production-aligned DevSecOps workflow**, where security, code quality, and deployment controls are enforced automatically before workloads are deployed to the cluster.
 
@@ -34,6 +33,7 @@ The design aligns directly with the architecture defined in Repo 1 and reflects 
 
 ## Pipeline Architecture
 
+![CI/CD Kubernetes Pipeline Architecture](docs/cicd-pipeline-architecture.png)
 > High-level CI/CD and security flow, aligned with the system architecture defined in Repo 1:
 
 1. Developer pushes code to the repository
