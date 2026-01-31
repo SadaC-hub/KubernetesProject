@@ -1,10 +1,16 @@
 # CI/CD Kubernetes Pipeline (DevSecOps)
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue)
-![Security](https://img.shields.io/badge/Security-DevSecOps-green)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-blue)
-![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
-![IaC](https://img.shields.io/badge/IaC-Terraform-purple)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20EKS-orange?logo=amazonaws&logoColor=white)
+![IaC](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes&logoColor=white)
+![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Runner](https://img.shields.io/badge/Runner-Self--Hosted-black?logo=github&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-Enabled-0A7F2E)
+![Security](https://img.shields.io/badge/Security-Enabled-brightgreen?logo=security&logoColor=white)
+
+![Project](https://img.shields.io/badge/Project-Delivery%20Pipeline%20(Repo%202)-blue)
+
+
 
 ## Overview
 
