@@ -20,6 +20,9 @@ The pipeline reflects the architecture and flow defined in the infrastructure re
 
 It is executed using **GitHub Actions** and deploys workloads to an **Amazon EKS** cluster, implementing **shift-left security**, automated quality gates, and runtime threat detection exactly as designed in the end-to-end system architecture.
 
+![Last Commit](https://img.shields.io/github/last-commit/SadaC-hub/KubernetesProject)
+![Open Issues](https://img.shields.io/github/issues/SadaC-hub/KubernetesProject)
+![License](https://img.shields.io/github/license/SadaC-hub/KubernetesProject)
 ---
 
 ## Why This Pipeline Matters
